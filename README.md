@@ -1,4 +1,5 @@
 # Loan Approval Prediction
+[![HitCount](http://hits.dwyl.io/ParthS007/Loan-Approval-Prediction.svg)](http://hits.dwyl.io/ParthS007/Loan-Approval-Prediction)
 
 ## Model
 - Logistic Regression Model 
